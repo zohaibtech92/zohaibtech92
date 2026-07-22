@@ -20,7 +20,6 @@ Building small projects at every stage of the program
 to apply what I learn — not just study theory.
 
 ### 📌 Featured Projects
-*(Add these as you build them — even simple ones)*
 - 🔹 [Project Name] — short one-line description
 - 🔹 [Project Name] — short one-line description
 
