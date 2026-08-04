@@ -20,7 +20,7 @@ Building small projects at every stage of the program
 to apply what I learn — not just study theory.
 
 ### 📌 Featured Projects
-- 🔹 Small ETL Pipeline Project
+- 🔹 Simple ETL Pipeline Project
 
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/zohaibtech
