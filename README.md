@@ -21,6 +21,7 @@ to apply what I learn — not just study theory.
 
 ### 📌 Featured Projects
 - 🔹 Simple ETL Pipeline Project
+- 🔹 Log Analyzer
 
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/zohaibtech
