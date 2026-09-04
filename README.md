@@ -1,25 +1,30 @@
-# Hi there 👋
+### Hi, I'm Muhammad Zohaib 👋
 
-I'm currently learning **Artificial Intelligence and Data Science** through a 
-structured, hands-on program — starting from Python fundamentals and working my 
-way up to Machine Learning, Deep Learning, and Generative AI.
+Software developer with a background in the **MERN stack**, currently building skills in 
+**data engineering, Python, and AI/ML** — with a long-term focus on agentic AI systems.
 
-### 🔭 What I'm Learning
-- 🐍 Python Foundations (OOP, Data Structures, File & Exception Handling)
-- 📊 Python for Data Science (NumPy, Pandas, Data Visualization)
-- 📐 Statistics & Math for Machine Learning
-- 🤖 Machine Learning (Supervised & Unsupervised Learning)
-- 🧠 Deep Learning (Neural Networks, Computer Vision, NLP)
-- ⚙️ MLOps (FastAPI, Docker, MLflow, CI/CD)
-- ☁️ Big Data & Cloud (Apache Spark, AWS/Azure)
-- 💬 Generative AI (Transformers, Prompt Engineering, RAG, Vector Databases)
-- 🕹️ Agentic AI (LangChain, CrewAI, Multi-Agent Systems)
+I came to tech through a non-traditional path (previously studied Political Science) and 
+learn primarily by building real, documented projects — including the actual bugs and 
+decisions along the way, not just the polished final result.
 
-### 🌱 Currently Working On
-Building small projects at every stage of the program 
-to apply what I learn — not just study theory.
+---
 
-### 📌 Featured Projects
+### 🌱 Currently Learning
+- Data Engineering fundamentals (ETL lifecycle, distributed systems concepts, SQL)
+- Python, Data Structures & Algorithms
+- AI/ML foundations, working toward agentic AI systems
+- Linux & cloud fundamentals
+
+### 🎓 Background
+- Pursuing a Computer Science degree at Virtual University of Pakistan
+- Experience in MERN stack development
+
+### 🗣️ Languages
+English, Urdu, Pashto
+
+---
+
+*### 📌 Featured Projects
 - 🔹 Simple ETL Pipeline Project
 - 🔹 Log Analyzer
 
@@ -28,9 +33,8 @@ to apply what I learn — not just study theory.
 - Email: zohaibtech92@gmail.com
 
 ### 💡 Fun fact
-I'm approaching this learning journey step by step — documenting my progress 
-publicly to stay accountable and keep improving.
+*I document my projects honestly — including real bugs I hit and how I debugged them, not 
+just the finished code. Check out my pinned repos below for the full story.
 
 ---
-⭐️ Thanks for stopping by — feel free to explore my repos and follow along 
-as I build my skills in AI & Data Science!
+⭐️ Thanks for stopping by — feel free to explore my repos!
