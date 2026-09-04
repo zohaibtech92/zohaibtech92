@@ -24,7 +24,7 @@ English, Urdu, Pashto
 
 ---
 
-*### 📌 Featured Projects
+### 📌 Featured Projects
 - 🔹 Simple ETL Pipeline Project
 - 🔹 Log Analyzer
 
