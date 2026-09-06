@@ -27,6 +27,8 @@ English, Urdu, Pashto
 ### 📌 Featured Projects
 - 🔹 Simple ETL Pipeline Project
 - 🔹 Log Analyzer
+- 🔹 Messy CSV Cleanup
+- 🔹 Ecommerce website
 
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/zohaibtech
