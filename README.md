@@ -1,7 +1,5 @@
 <!-- Header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=MUHAMMAD%20ZOHAIB&fontSize=50&fontColor=ffffff)
-
-<h3 align="center">FullStack Developer | AI & ML | Data Engineer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=MUHAMMAD%20ZOHAIB&fontSize=50&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20AI%20and%20ML%20%7C%20Data%20Engineer&descAlignY=55)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Transform+Data+Into+Meaningful+Insights" alt="Transform Data Into Meaningful Insights" />
