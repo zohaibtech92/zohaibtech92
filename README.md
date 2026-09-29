@@ -1,5 +1,5 @@
 <!-- Header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&desc=Your%20Title%20Here&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=MUHAMMAD%20ZOHAIB&fontSize=50&fontColor=ffffff&desc=WEB DEVLOPER%20| AI & ML%20| Data Engineer&descAlignY=55)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibtech)
 ![Profile Views](https://komarev.com/ghpvc/?username=zohaibtech92&style=for-the-badge&color=00c9ff)
