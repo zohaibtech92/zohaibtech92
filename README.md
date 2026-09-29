@@ -6,7 +6,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaibtech)
-![Profile Views](https://komarev.com/ghpvc/?username=zohaibtech92&style=for-the-badge&color=00c9ff)
+[![Profile Views](https://hits.sh/github.com/zohaibtech92.svg?style=for-the-badge&label=Profile%20Views&color=00c9ff)](https://hits.sh/github.com/zohaibtech92/)
 ![Followers](https://img.shields.io/github/followers/zohaibtech92?style=for-the-badge&logo=github)
 ---
 
