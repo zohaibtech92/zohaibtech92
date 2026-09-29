@@ -4,10 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=FullStack+Developer+%7C+AI+%26+ML+%7C+Data+Engineer" alt="title" />
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibtech)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaibtech)
 ![Profile Views](https://komarev.com/ghpvc/?username=zohaibtech92&style=for-the-badge&color=00c9ff)
 ![Followers](https://img.shields.io/github/followers/zohaibtech92?style=for-the-badge&logo=github)
-
 ---
 
 ### ⚡ About Me
