@@ -1,6 +1,9 @@
 <!-- Header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=MUHAMMAD%20ZOHAIB&fontSize=50&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Data%20Engineer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9ff&height=200&section=header&text=MUHAMMAD%20ZOHAIB&fontSize=50&fontColor=ffffff)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=FullStack+Developer+%7C+AI+%26+ML+%7C+Data+Engineer" alt="title" />
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibtech)
 ![Profile Views](https://komarev.com/ghpvc/?username=zohaibtech92&style=for-the-badge&color=00c9ff)
 ![Followers](https://img.shields.io/github/followers/zohaibtech92?style=for-the-badge&logo=github)
