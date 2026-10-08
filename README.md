@@ -5,11 +5,16 @@
 </p>
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaibtech)
-[![Profile Views](https://hits.sh/github.com/zohaibtech92.svg?style=for-the-badge&label=Profile%20Views&color=00c9ff)](https://hits.sh/github.com/zohaibtech92/)
-![Followers](https://img.shields.io/github/followers/zohaibtech92?style=for-the-badge&logo=github)
+  <a href="https://www.linkedin.com/in/zohaibtech">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hits.sh/github.com/zohaibtech92/">
+    <img src="https://hits.sh/github.com/zohaibtech92.svg?style=for-the-badge&label=Profile%20Views&color=00c9ff" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/zohaibtech92?style=for-the-badge&logo=github" alt="Followers" />
 </p>
-  ---
+
+---
 
 ### ⚡ About Me
 - 🧬 Software developer with a background in the **MERN stack**, currently building skills in 
@@ -57,7 +62,11 @@
 
 ### 📡 Let's Connect
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibtech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibtech92@gmail.com)
+  <a href="https://www.linkedin.com/in/zohaibtech">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zohaibtech92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer)
