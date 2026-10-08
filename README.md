@@ -12,7 +12,11 @@
 ### ⚡ About Me
 - 🧬 Software developer with a background in the **MERN stack**, currently building skills in 
 **data engineering, Python, and AI/ML** — with a long-term focus on agentic AI systems.
-- 🛠️ Your main tools or workflows
+- 🛠️ Languages: Python, plus JavaScript (MERN stack)
+      Data work: pandas, numpy, Jupyter Notebook
+      Databases: PostgreSQL, SQLite, Supabase, MongoDB
+      Web: React, React Native, Node.js
+      Environment: Linux (WSL Ubuntu on Windows) and Git/GitHub
 - 📚 Data Engineering fundamentals (ETL lifecycle, distributed systems concepts, SQL), Python, Data Structures & Algorithms, AI/ML foundations, working toward agentic AI systems, Linux & cloud fundamentals
 
 ---
@@ -34,9 +38,9 @@
 | Project | What it does |
 | --- | --- |
 | **[Stock Market ETL Pipeline](https://github.com/zohaibtech92/stock-market-etl-postgres)** | Pulls stock data from yfinance, transforms it in Python, and loads it into a PostgreSQL star schema |
-| **[Simple ETL Pipeline](https://github.com/zohaibtech92/REPO)** | Extracts raw data, transforms it with Python, and loads it into a database for analysis |
-| **[Log Analyzer](https://github.com/zohaibtech92/REPO)** | Parses server log files to surface errors, patterns, and usage summaries |
-| **[Messy CSV Cleanup](https://github.com/zohaibtech92/REPO)** | Cleans inconsistent CSV data by fixing missing values, duplicates, and formatting issues with Python |
+| **[Simple ETL Pipeline](https://github.com/zohaibtech92/personal-etl-pipeline)** | Extracts raw data, transforms it with Python, and loads it into a database for analysis |
+| **[Log Analyzer](https://github.com/zohaibtech92/log-analyzer)** | Parses server log files to surface errors, patterns, and usage summaries |
+| **[Messy CSV Cleanup](https://github.com/zohaibtech92/messy-csv-cleanup)** | Cleans inconsistent CSV data by fixing missing values, duplicates, and formatting issues with Python |
 
 #### 🤖 AI & ML
 | Project | What it does |
