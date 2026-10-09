@@ -30,7 +30,9 @@
 
 ### 🧠 Tech Arsenal
 <p align="center">
-  [![skills](https://skillicons.dev/icons?i=py,postgres,docker,git,github,linux,react,nodejs&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,docker,git,github,linux,react,nodejs&theme=dark" alt="Tech stack" />
+  </a>
 </p>
 ---
 
