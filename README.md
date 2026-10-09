@@ -29,8 +29,9 @@
 ---
 
 ### 🧠 Tech Arsenal
-[![skills](https://skillicons.dev/icons?i=py,postgres,docker,git,github,linux,react,nodejs&theme=dark)](https://skillicons.dev)
-
+<p align="center">
+  [![skills](https://skillicons.dev/icons?i=py,postgres,docker,git,github,linux,react,nodejs&theme=dark)](https://skillicons.dev)
+</p>
 ---
 
 ### 🛰️ Featured Projects
