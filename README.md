@@ -42,7 +42,6 @@
 | Project | What it does |
 | --- | --- |
 | **[Ecommerce Website](https://github.com/zohaibtech92/ecommerce-website)** | Full-stack online store with product listings, cart, and user accounts built on the MERN stack |
-| **[Grocery Store App](https://github.com/zohaibtech92/REPO)** | React website, React Native app, and admin panel sharing one Supabase backend (PostgreSQL, Auth, Storage) |
 
 #### 🗄️ Data Engineering
 | Project | What it does |
@@ -55,7 +54,8 @@
 #### 🤖 AI & ML
 | Project | What it does |
 | --- | --- |
-| **[House Price Prediction](https://github.com/zohaibtech92/REPO)** | Linear regression model on the Ames housing dataset with feature scaling, missing-value handling, and coefficient interpretation |
+| **[House Price Prediction](https://github.com/zohaibtech92/house-price-prediction-linreg
+)** | Linear regression model on the Ames housing dataset with feature scaling, missing-value handling, and coefficient interpretation |
 
 
 ---
